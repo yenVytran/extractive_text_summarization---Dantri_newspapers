@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-data = pd.read_csv("C:\Users\Admin\Downloads\data_dantri_chungkhoan.csv")
+data = pd.read_csv("data_dantri_chungkhoan.csv")
 #pip install streamlit
 #pip install pyngrok
 print(data.shape)
