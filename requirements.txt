@@ -3,7 +3,7 @@ altair
 annotated-types
 astunparse
 attrs
-en_core_web_sm==3.1.0
+en-core-web-sm==3.7.1
 beautiful
 beautifulsoup4
 blinker
@@ -21,7 +21,6 @@ contourpy
 cycler
 cymem
 docopt
-en-core-web-sm 
 filelock
 flatbuffers
 fonttools
