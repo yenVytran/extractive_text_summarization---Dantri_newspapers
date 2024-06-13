@@ -1,8 +1,8 @@
 import streamlit as st
 import pandas as pd
 data = pd.read_csv("data_dantri_chungkhoan.csv")
-#pip install streamlit
-#pip install pyngrok
+pip install streamlit
+pip install pyngrok
 print(data.shape)
 data.describe()
 
