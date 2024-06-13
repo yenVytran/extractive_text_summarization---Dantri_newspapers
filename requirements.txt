@@ -84,7 +84,6 @@ pyparsing
 python-crfsuite
 python-dateutil 
 pytz
-pywin32==3.7
 PyYAML
 pyzmq
 referencing
