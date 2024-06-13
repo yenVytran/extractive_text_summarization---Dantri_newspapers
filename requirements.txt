@@ -1,0 +1,160 @@
+absl-py==2.1.0
+altair==5.2.0
+annotated-types==0.7.0
+asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
+astunparse==1.6.3
+attrs==23.2.0
+beautiful==0.0.2
+beautifulsoup4==4.12.3
+blinker==1.7.0
+blis==0.7.11
+breadability==0.1.20
+cachetools==5.3.3
+catalogue==2.0.10
+certifi==2023.11.17
+chardet==3.0.4
+charset-normalizer==3.3.2
+click==8.1.7
+cloudpathlib==0.18.1
+colorama @ file:///C:/ci_311/colorama_1676422310965/work
+comm @ file:///C:/ci_311/comm_1678376562840/work
+confection==0.1.5
+contourpy==1.2.0
+cycler==0.12.1
+cymem==2.0.8
+debugpy @ file:///C:/b/abs_c0y1fjipt2/croot/debugpy_1690906864587/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+docopt==0.6.2
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl#sha256=86cc141f63942d4b2c5fcee06630fd6f904788d2f0ab005cce45aadb8fb73889
+et-xmlfile==1.1.0
+executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
+filelock==3.14.0
+flatbuffers==24.3.25
+fonttools==4.47.2
+fsspec==2024.6.0
+gast==0.5.4
+gitdb==4.0.11
+GitPython==3.1.42
+google-pasta==0.2.0
+googletrans==3.0.0
+grpcio==1.64.1
+h11==0.9.0
+h2==3.2.0
+h5py==3.11.0
+hpack==3.0.0
+hstspreload==2024.1.5
+httpcore==0.9.1
+httpx==0.13.3
+huggingface-hub==0.23.3
+hyperframe==5.2.0
+idna==2.10
+ipykernel @ file:///C:/b/abs_07rkft_vaz/croot/ipykernel_1691121700587/work
+ipython @ file:///C:/b/abs_b6pfgmrqnd/croot/ipython_1704833422163/work
+jedi @ file:///C:/ci_311/jedi_1679427407646/work
+Jinja2==3.1.3
+joblib==1.3.2
+jsonschema==4.21.1
+jsonschema-specifications==2023.12.1
+jupyter_client @ file:///C:/b/abs_a6h3c8hfdq/croot/jupyter_client_1699455939372/work
+jupyter_core @ file:///C:/b/abs_c769pbqg9b/croot/jupyter_core_1698937367513/work
+keras==3.3.3
+keras-tuner==1.4.7
+kiwisolver==1.4.5
+kt-legacy==1.0.5
+langcodes==3.4.0
+language_data==1.2.0
+libclang==18.1.1
+lxml==5.2.2
+marisa-trie==1.2.0
+Markdown==3.6
+markdown-it-py==3.0.0
+MarkupSafe==2.1.5
+matplotlib==3.8.2
+matplotlib-inline @ file:///C:/ci_311/matplotlib-inline_1676425798036/work
+mdurl==0.1.2
+ml-dtypes==0.3.2
+murmurhash==1.0.10
+namex==0.0.8
+nest-asyncio @ file:///C:/ci_311/nest-asyncio_1676423519896/work
+networkx==3.3
+nltk==3.8.1
+numpy==1.26.3
+openpyxl==3.1.2
+opt-einsum==3.3.0
+optree==0.11.0
+packaging @ file:///C:/b/abs_28t5mcoltc/croot/packaging_1693575224052/work
+pandas==2.2.0
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pillow==10.2.0
+platformdirs @ file:///C:/b/abs_b6z_yqw_ii/croot/platformdirs_1692205479426/work
+preshed==3.0.9
+prompt-toolkit @ file:///C:/b/abs_68uwr58ed1/croot/prompt-toolkit_1704404394082/work
+protobuf==4.25.3
+psutil @ file:///C:/ci_311_rebuilds/psutil_1679005906571/work
+pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+pyarrow==15.0.1
+pycountry==24.6.1
+pydantic==2.7.3
+pydantic_core==2.18.4
+pydeck==0.8.1b0
+Pygments @ file:///C:/b/abs_fay9dpq4n_/croot/pygments_1684279990574/work
+pyparsing==3.1.1
+python-crfsuite==0.9.10
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2023.3.post1
+pywin32==306
+PyYAML==6.0.1
+pyzmq @ file:///C:/b/abs_89aq69t0up/croot/pyzmq_1705605705281/work
+referencing==0.34.0
+regex==2024.5.15
+requests==2.31.0
+rfc3986==1.5.0
+rich==13.7.1
+rouge-score==0.1.2
+rpds-py==0.18.0
+safetensors==0.4.3
+scikit-learn==1.2.2
+scipy==1.12.0
+seaborn==0.13.1
+shellingham==1.5.4
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+smart-open==7.0.4
+smmap==5.0.1
+sniffio==1.3.0
+soupsieve==2.5
+spacy==3.7.5
+spacy-legacy==3.0.12
+spacy-loggers==1.0.5
+srsly==2.4.8
+stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
+streamlit==1.32.2
+summarizer==0.0.7
+sumy==0.11.0
+tenacity==8.2.3
+tensorboard==2.16.2
+tensorboard-data-server==0.7.2
+tensorflow==2.16.1
+tensorflow-intel==2.16.1
+tensorflow-io-gcs-filesystem==0.31.0
+termcolor==2.4.0
+thinc==8.2.4
+threadpoolctl==3.3.0
+tokenizers==0.19.1
+toml==0.10.2
+toolz==0.12.1
+tornado @ file:///C:/b/abs_0cbrstidzg/croot/tornado_1696937003724/work
+tqdm==4.66.4
+traitlets @ file:///C:/ci_311/traitlets_1676423290727/work
+transformers==4.41.2
+typer==0.12.3
+typing_extensions==4.10.0
+tzdata==2023.4
+underthesea==6.8.3
+underthesea_core==1.0.4
+urllib3==2.2.1
+wasabi==1.1.3
+watchdog==4.0.0
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+weasel==0.4.1
+Werkzeug==3.0.3
+wrapt==1.16.0
