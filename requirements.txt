@@ -3,7 +3,6 @@ altair
 annotated-types
 astunparse
 attrs
-en-core-web-sm==3.7.1
 beautiful
 beautifulsoup4
 blinker
