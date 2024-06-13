@@ -12,7 +12,7 @@ data.reset_index(drop=True,inplace=True)
 
 # Đọc tệp vietnamesestopword.txt và lưu các từ dừng vào một danh sách
 stopwords = []
-with open('C:\Users\Admin\Downloads\vietnamese-stopwords.txt', 'r', encoding='utf-8') as file:
+with open('vietnamese-stopwords.txt', 'r', encoding='utf-8') as file:
     stopwords = file.read().splitlines()
 
 print(f'Number of stopwords: {len(stopwords)}')
